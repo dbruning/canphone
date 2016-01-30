@@ -10,3 +10,4 @@ Fun project for me to play around with Raspberry Pi and Windows 10 IoT
 
 # Status?
 Just started.
+Keeping notes in a [published Google Doc](https://docs.google.com/document/d/1wX8OL6vJsJyLH0wibKMVk0DV5xgujZ0o4xYqEUyEwyQ/pub)
